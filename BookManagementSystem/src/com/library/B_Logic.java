@@ -6,6 +6,10 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 
+/**
+ * @author Rahul
+ *
+ */
 public class B_Logic {
 	static Connection con = null;
 	static Statement stmt = null;
